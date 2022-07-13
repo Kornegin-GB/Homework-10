@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Даны две строки. Определить можно ли из символов первой строки, собрать вторую. Допускается любое количество пробелов. Регистр символов различный в любой последовательности.
+// Пример:
+// Строка 1. Tom Marvolo Riddle
+// Строка 2. I am Lord Voldemort
+// Ответ: Да
+// Строка 1. Tom Marvolo Riddle
+// Строка 2. Lord Voldemort
+// Ответ: Нет - остались свободные символы.
